@@ -1,0 +1,26 @@
+ 
+ ***Unit tests for Fizzbuzz***
+
+ Def describe_a_fizzbuzz_program_that():
+   ***A program to play the fizzbuzz program***
+
+   Def can_determine_if_a_number_is_a_multiple_of_3():
+     ***Check to see if a given number is multiple of 3***
+     if x % 3 == 0 print "fizz"
+      assert fizz(3) == true
+
+    Def can_determine_if_a_number_is_a_multiple_of_5
+    ***Check to see if a given number is a multiple of 5***
+     if x % 5 == 0 print "buzz" 
+     assert buzz(5) == true
+
+     Def can_determine_if_a_number_is_a_multiple_of_15
+     if x % 15 == 0 print "fizzbuzz"
+     assert fizzbuzz(15) == true
+
+
+
+
+
+
+
